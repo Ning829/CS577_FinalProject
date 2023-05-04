@@ -473,7 +473,7 @@ if __name__ == '__main__':
     plt.savefig("lr_vs_accu.png")
     """
 
-    # plot learning curveS
+    # plot learning curves
     """
     # A
     fig, ax = plt.subplots()
