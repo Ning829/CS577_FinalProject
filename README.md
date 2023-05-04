@@ -11,6 +11,6 @@ There is a download page link in the above link to get the embeddings, and we us
 Download and decompress it, then put the entire folder into this CS577_FinalProject-main folder.
 
 ### How to run:
-After ensuring everything is ready, type\
+After ensuring everything is ready, go to CS577_FinalProject-main folder and type\
 python main.py\
 in command line to run the program.
